@@ -1,4 +1,6 @@
 ### EX7 Implementation of Link Analysis using HITS Algorithm
+### NAME:MOHAMED ASEEM P
+### REG NO:212221230063
 ### DATE: 18-04-2024
 ### AIM: 
 To implement Link Analysis using HITS Algorithm in Python.
